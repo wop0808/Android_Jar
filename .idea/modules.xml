@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android_Jar.iml" filepath="$PROJECT_DIR$/Android_Jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pull_to_refresh/pull_to_refresh.iml" filepath="$PROJECT_DIR$/pull_to_refresh/pull_to_refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview_2/recyclerview_2.iml" filepath="$PROJECT_DIR$/recyclerview_2/recyclerview_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview_full/recyclerview_full.iml" filepath="$PROJECT_DIR$/recyclerview_full/recyclerview_full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu1/slidingmenu1.iml" filepath="$PROJECT_DIR$/slidingmenu1/slidingmenu1.iml" />
+    </modules>
+  </component>
+</project>
