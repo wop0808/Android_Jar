@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android_Jar.iml" filepath="$PROJECT_DIR$/Android_Jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttps_GET/okhttps.iml" filepath="$PROJECT_DIR$/okhttps_GET/okhttps.iml" />
       <module fileurl="file://$PROJECT_DIR$/pull_to_refresh/pull_to_refresh.iml" filepath="$PROJECT_DIR$/pull_to_refresh/pull_to_refresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerview_2/recyclerview_2.iml" filepath="$PROJECT_DIR$/recyclerview_2/recyclerview_2.iml" />
